@@ -21,13 +21,13 @@ public class Three {
         Scanner reader=new Scanner(System.in);
         System.out.println("Enter a whole number");
         int y= reader.nextInt();
-        
-        for(int i= 1; i <= y; i++){
-        System.out.println(i);
+
+        for (int i = 1; i <= y; i++) {
+            System.out.println(i);
         }
         
         
-        // TODO code application logic here
+        
     }
     
 }
